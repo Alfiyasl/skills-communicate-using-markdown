@@ -1,6 +1,6 @@
 # My Progress
 # Communicate using Markdown
-
+![Markdown logo](https://octodex.github.com/images/Professortocat_v2.png)
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey Alfiyasl!
