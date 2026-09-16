@@ -16,3 +16,8 @@ Remember, it's self-paced so feel free to take a break! ☕️
 ```python
 print("Hello, Mulearn!")
 ```
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [x] Mark a task list
+- [ ] Merge your pull request
